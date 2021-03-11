@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-go-application-5
+  description: my-go-application
+  annotations: 
+    github.com/project-slug: kbristow/my-go-application-5
+    backstage.io/source-ref: "https://github.com/kbristow/my-go-application-5"
+    backstage.io/techdocs-ref: url:https://github.com/kbristow/my-go-application-5
+    backstage.io/github-actions-id: https://github.com/kbristow/my-go-application-5
+spec:
+  type: service
+  lifecycle: experimental
+  owner: Guest
