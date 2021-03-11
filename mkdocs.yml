@@ -1,0 +1,16 @@
+site_name: MkDocs
+site_url: https://www.mkdocs.org
+site_description: Project documentation with Markdown.
+site_author: Me
+
+repo_url: https://github.com/kbristow/my-go-application-5/
+edit_uri: ""
+
+theme:
+    name: mkdocs
+
+nav:
+    - Home: README.md
+    
+
+copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom Christie</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">MkDocs Team</a>.
