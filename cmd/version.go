@@ -6,6 +6,7 @@ import (
 	"github.com/spf13/cobra"
 )
 
+// testing a meaningless change
 // versionCmd represents the version command
 var versionCmd = &cobra.Command{
 	Use:   "version",
