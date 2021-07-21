@@ -9,7 +9,8 @@ import (
 
 var cfgFile string
 
-// rootCmd represents the base command when called without any subcommands 
+// some useless comment
+// rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "generated code example",
 	Short: "A brief description of your application",
